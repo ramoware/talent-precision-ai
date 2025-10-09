@@ -1,4 +1,4 @@
-# AI Interview Assistant
+# Talent Precision AI
 
 A modern, AI-powered interview platform with real-time candidate assessment and analytics.
 
