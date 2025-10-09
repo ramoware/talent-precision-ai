@@ -27,4 +27,4 @@ A modern, AI-powered interview platform with real-time candidate assessment and 
 
 ## Deployment
 
-This project is deployed on Vercel. Visit: [My Web App](talent-precision-ai.vercel.app)
+This project is deployed on Vercel. Visit: [My Web App](https://talent-precision-ai.vercel.app)
