@@ -2,6 +2,8 @@
 
 A modern, AI-powered interview platform with real-time candidate assessment and analytics.
 
+![Talent Precision AI](hero.png)
+
 ## Features
 
 - 🤖 AI-powered interview questions
